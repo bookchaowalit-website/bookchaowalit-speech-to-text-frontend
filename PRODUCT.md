@@ -22,6 +22,12 @@ See `README.md` for install and run instructions when present.
 ## Source README excerpt
 
 ```
+
+## Current product truth
+
+- Uses the browser SpeechRecognition/WebkitSpeechRecognition surface when available.
+- Supports start, stop, transcript update, copy, and clear in one browser session.
+- No cloud transcription key, audio upload, recording persistence, or account system.
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
